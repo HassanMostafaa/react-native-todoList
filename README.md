@@ -1,2 +1,2 @@
-![screenshot 1](./assets/ss1.png)
-![screenshot 2](./assets/ss2.png)
+<img src="./assets/ss1.jpg" width="300px" align=right>
+<img src="./assets/ss2.jpg" width="300px">
